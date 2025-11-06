@@ -3,6 +3,7 @@
 
 
 ## ⚡ About Me
+
 👋 I'm Haile Homa — a Self-Taught Full Stack Engineer & Software Developer and Mechanical Engineer @ Bahir Dar University . I’m passionate about building meaningful, real-world applications from scratch, blending creativity with engineering to solve real problems. Currently, I’m working on Limitless, an AI-powered student platform designed to empower learners across Africa . I love exploring JavaScript, TypeScript, React, Next.js, and AI technologies, constantly learning and pushing my limits to build impactful digital experiences.
 ---
 
