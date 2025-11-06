@@ -26,46 +26,62 @@
 
 > _A showcase of my favorite projects that reflect creativity, logic, and real-world impact._
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="33%">
-  <img src="https://via.placeholder.com/280x160?text=Limitless+App" width="280" alt="Limitless App"/><br/><br/>
-  <a href="#"><b>🌟 Limitless</b></a><br/>
-  <sub>An educational super-app for students — AI tools, collaboration, and PDF marketplace in one place 📚🤖</sub>
+  <img src="https://github.com/Haile-Homa/Haile-Homa/blob/main/terminal-thumbnail.png?raw=true" width="100%" alt="Terminal Portfolio"/><br/>
+  <h3>💻 Terminal Portfolio</h3>
+  <p>Interactive portfolio that looks and feels like a real terminal. Type commands to explore! 🧠</p>
 </td>
 <td align="center" width="33%">
-  <img src="https://via.placeholder.com/280x160?text=Task+Manager" width="280" alt="Task Manager"/><br/><br/>
-  <a href="#"><b>⚙️ Task Manager</b></a><br/>
-  <sub>A modern task management system built with Webpack, ES6 modules, and real-time data handling ✅</sub>
+  <img src="https://github.com/Haile-Homa/Haile-Homa/blob/main/tenaai-thumbnail.png?raw=true" width="100%" alt="Tena Agri AI"/><br/>
+  <h3>🌾 Tena(ጤና)-Agri AI</h3>
+  <p>AI-powered agriculture and health analysis platform for rural communities 🌍</p>
 </td>
 <td align="center" width="33%">
-  <img src="https://via.placeholder.com/280x160?text=Notion+Style+Editor" width="280" alt="Notion Style Editor"/><br/><br/>
-  <a href="#"><b>🧩 Notion-Style Editor</b></a><br/>
-  <sub>A full-featured note app built in Vanilla JS — supports editable blocks, slash commands & drag-and-drop ✍️</sub>
+  <img src="https://github.com/Haile-Homa/Haile-Homa/blob/main/gui-thumbnail.png?raw=true" width="100%" alt="GUI Portfolio"/><br/>
+  <h3>✍️ GUI Portfolio</h3>
+  <p>A Notion-style note app built in Vanilla JS — supports editable blocks & drag-and-drop 🚀</p>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+  <img src="https://github.com/Haile-Homa/Haile-Homa/blob/main/sabagpt-thumbnail.png?raw=true" width="100%" alt="saba-gpt"/><br/>
+  <h3>🧠 Saba-GPT</h3>
+  <p>AI chatbot platform with learning and productivity tools integrated 💬</p>
+</td>
+<td align="center" width="33%">
+  <img src="https://github.com/Haile-Homa/Haile-Homa/blob/main/lms-thumbnail.png?raw=true" width="100%" alt="Limitless Learning"/><br/>
+  <h3>🎓 Limitless Learning</h3>
+  <p>Next-gen LMS with video lessons, AI tutors, and collaborative features 🚀</p>
+</td>
+<td align="center" width="33%">
+  <img src="https://github.com/Haile-Homa/Haile-Homa/blob/main/equb-thumbnail.png?raw=true" width="100%" alt="Fayda Equb"/><br/>
+  <h3>💰 Fayda Equb (PWA)</h3>
+  <p>Modern digital equb app for community savings and fund management 📱</p>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+  <img src="https://github.com/Haile-Homa/Haile-Homa/blob/main/galleryapp.png?raw=true" width="100%" alt="gallery-app"/><br/>
+  <h3>Gallery-App</h3>
+  <p>AI chatbot platform with learning and productivity tools integrated 💬</p>
+</td>
+<td align="center" width="33%">
+  <img src="https://github.com/Haile-Homa/Haile-Homa/blob/main/limitlesschat.png?raw=true" width="100%" alt="Limitless Chat"/><br/>
+  <h3>Limitles Chat</h3>
+  <p>Next-gen LMS with video lessons, AI tutors, and collaborative features 🚀</p>
+</td>
+<td align="center" width="33%">
+  <img src="https://github.com/Haile-Homa/Haile-Homa/blob/main/engine.png?raw=true" width="100%" alt="engine"/><br/>
+  <h3>semi-engine-block</h3>
+  <p>Modern digital equb app for community savings and fund management 📱</p>
 </td>
 </tr>
 </table>
 
----
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hailehoma" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/hailehoma" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  </a>
-  <a href="mailto:hailehoma@example.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="45" height="45" alt="Email"/>
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="45" height="45" alt="Portfolio"/>
-  </a>
-  <a href="https://www.instagram.com/mmmaximus.soares" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45" alt="Instagram"/>
-  </a>
-</p>
 
 ---
 
