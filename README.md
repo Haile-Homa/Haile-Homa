@@ -110,20 +110,17 @@ I focus on full-stack engineering and API design, aiming to create fast, secure,
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hailehoma" target="_blank">
+  <a href="https://www.linkedin.com/in/haile-homa" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/hailehoma" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
   </a>
-  <a href="mailto:hailehoma@example.com" target="_blank">
+  <a href="mailto:hailehoma1@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="45" height="45" alt="Email"/>
   </a>
-  <a href="https://portfolio-haile-homa.vercel.app/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="45" height="45" alt="Portfolio"/>
-  </a>
-  <a href="https://www.instagram.com/mmmaximus.soares" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45" alt="Instagram"/>
+  <a href="https://portfolio-haile-homa.vercel.app" target="_blank">
+    <img src="https://github.com/Haile-Homa/icons-projects/blob/main/Frame%201000005862.png?raw=true" width="45" height="45" alt="Portfolio"/>
   </a>
 </p>
 
