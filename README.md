@@ -113,7 +113,7 @@ I focus on full-stack engineering and API design, aiming to create fast, secure,
   <a href="https://www.linkedin.com/in/haile-homa" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/hailehoma" target="_blank">
+  <a href="https://github.com/Haile-Homa" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
   </a>
   <a href="mailto:hailehoma1@gmail.com" target="_blank">
