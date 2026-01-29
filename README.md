@@ -1,5 +1,5 @@
 # 🐐 Hey there, I’m **Haile Homa**
-**`Full-Stack Engineer(Self-Taught) | Software Developer(Self-Taught) | Mechanical Engineer @ Bahir Dar University`**
+**`Full-Stack Engineer | Software Developer`**
 
 
 # ⚡ About Me
