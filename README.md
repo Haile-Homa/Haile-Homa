@@ -4,13 +4,13 @@
 
 # ⚡ About Me
 
-👋 I’m Haile Homa, a full-stack developer focused on building modern, efficient, and scalable web applications. I study Mechanical Engineering at Bahir Dar University, but I’ve built my software skills independently through hands-on projects and continuous learning. I work across the full MERN stack and have a solid understanding of system design, application structure, and core engineering principles.
+👋 I’m Haile Homa, a software engineer focused on building modern, efficient, and scalable applications, specializing in full-stack development across the MERN stack with strong expertise in system design, application architecture, and production-ready software engineering — delivering robust, maintainable, and high-performance solutions from concept to deployment. 
 
-My technical skills include React, Next.js, JavaScript, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, and API design. I’m comfortable designing backend systems, building authentication flows, optimizing databases, structuring APIs, and creating maintainable frontends.
+My technical expertise includes React, Next.js, JavaScript, TypeScript, Tailwind CSS, Node.js, MongoDB, and API design. I design and build secure backend systems, authentication flows, optimized databases, scalable APIs, and clean, maintainable frontends.
 
-I’ve built projects like an AI-powered terminal portfolio, an agricultural AI platform, a chatbot app, a learning management platform, and several responsive PWAs, gaining experience in frontend and backend development, security, deployment, and performance.
+I’ve developed projects such as an agricultural AI platform, a chatbot application, and a learning management system, an AI-powered terminal portfolio, along with responsive PWAs including Portfolio Website (GUI) – PWA and Fayda Equb (PWA). In addition to full-stack development, I’ve designed mobile applications like Gallery App and LimitlessChat in Figma, demonstrating strong UI/UX and graphic design skills with a focus on clean, modern, and intuitive user experiences — delivering complete solutions from architecture and backend systems to frontend interfaces and product design.
 
-I focus on full-stack engineering and API design, aiming to create fast, secure, and scalable systems that solve real-world problems.
+I focus on building fast, secure, and scalable software systems that solve real-world problems.
 
 ---
 
